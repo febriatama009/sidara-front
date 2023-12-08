@@ -1,0 +1,12 @@
+export { default as Beranda } from "./Beranda";
+export { default as Tentang } from "./Tentang";
+export { default as Sebaran } from "./Sebaran";
+export { default as Desa } from "./Desa";
+export { default as DaftarDesa } from "./DaftarDesa";
+export { default as DetailDesa } from "./DetailDesa";
+export { default as Grafik } from "./Grafik";
+export { default as StrukturOrganisasi } from "./StrukturOrganisasi";
+export { default as ReferensiHukum } from "./ReferensiHukum";
+export { default as Pengaduan } from "./Pengaduan";
+export { default as NotFound } from "./NotFound";
+export { default as Root } from "./Root";
